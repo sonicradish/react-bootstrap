@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react/addons');
 var OverlayMixin = require('./OverlayMixin');
 var cloneWithProps = require('./utils/cloneWithProps');
 

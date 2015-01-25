@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react/addons');
 
 /**
  * Maps children that are typically specified as `props.children`,

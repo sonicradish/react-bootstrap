@@ -1,6 +1,6 @@
 /* global window, document */
 
-var React = require('react');
+var React = require('react/addons');
 var domUtils = require('./utils/domUtils');
 var EventListener = require('./utils/EventListener');
 

@@ -1,7 +1,7 @@
 // https://www.npmjs.org/package/react-interpolate-component
 'use strict';
 
-var React = require('react');
+var React = require('react/addons');
 var ValidComponentChildren = require('./utils/ValidComponentChildren');
 var assign = require('./utils/Object.assign');
 

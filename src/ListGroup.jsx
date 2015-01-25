@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react/addons');
 var classSet = require('./utils/classSet');
 var cloneWithProps = require('./utils/cloneWithProps');
 

@@ -16,7 +16,7 @@
  *  @see https://github.com/facebook/react/issues/1906
  */
 
-var React = require('react');
+var React = require('react/addons');
 var joinClasses = require('./joinClasses');
 var assign = require("./Object.assign");
 

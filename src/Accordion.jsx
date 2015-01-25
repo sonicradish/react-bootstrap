@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react/addons');
 var PanelGroup = require('./PanelGroup');
 
 var Accordion = React.createClass({

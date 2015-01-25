@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react/addons');
 var joinClasses = require('./utils/joinClasses');
 var classSet = require('./utils/classSet');
 var TransitionEvents = require('./utils/TransitionEvents');
